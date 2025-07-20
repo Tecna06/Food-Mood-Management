@@ -16,4 +16,6 @@ This project is a simple Flask web application to help  users manually input dat
 - SQLite
 - HTML (for form interface)
 
+## Introductions 
+- when u run the files the database file (.db) will be created automatically. your datas will be there saved. you can see your datas in table, i suggest you to use DBeaver to display tables ^^ 
   
